@@ -9,7 +9,7 @@ public class Pessoa {
 		private String PESSOANome;
 		private String PESSOACPF;
 	//	private  PESSOASexo;				// enum
-	//	private  TipoAluno;			// enum
+	
 		private int Turma_idTurma;
 	//***************************************
 
@@ -29,7 +29,7 @@ public class Pessoa {
 	}
 	//****************************************
 	
-	//********* VALIDAÇÕES *************
+	//********* VALIDAÃ‡Ã•ES *************
 	
 	public void StringVazia() throws CampoVazio {
 		
