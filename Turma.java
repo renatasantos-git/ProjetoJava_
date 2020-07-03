@@ -19,9 +19,9 @@ public class Turma {
 	//}
 	
 
-	public int getIdTurma() {
-		return idTurma;
-	}
+	//public int getIdTurma() {
+	//	return idTurma;
+	//}
 
 	public void setIdTurma(int idTurma) {
 		this.idTurma = idTurma;
