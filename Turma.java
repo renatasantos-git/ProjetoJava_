@@ -3,7 +3,7 @@ package projetoEscola;
 public class Turma {
 
 	private int idTurma;
-	private String turmaDescrição;
+	private String turmaDescriï¿½ï¿½o;
 	
 	
 	public Turma() {
@@ -11,12 +11,12 @@ public class Turma {
 	}
 
 
-	public Turma(int idTurma, String turmaDescrição) {
-		super();
-		this.idTurma = idTurma;
-		this.turmaDescrição = turmaDescrição;
+	//public Turma(int idTurma, String turmaDescriï¿½ï¿½o) {
+		//super();
+		//this.idTurma = idTurma;
+		// this.turmaDescriï¿½ï¿½o = turmaDescriï¿½ï¿½o;
 	
-	}
+	//}
 	
 
 	public int getIdTurma() {
@@ -27,12 +27,12 @@ public class Turma {
 		this.idTurma = idTurma;
 	}
 
-	public String getTurmaDescrição() {
-		return turmaDescrição;
+	public String getTurmaDescriï¿½ï¿½o() {
+		return turmaDescriï¿½ï¿½o;
 	}
 
-	public void setTurmaDescrição(String turmaDescrição) {
-		this.turmaDescrição = turmaDescrição;
+	public void setTurmaDescriï¿½ï¿½o(String turmaDescriï¿½ï¿½o) {
+		this.turmaDescriï¿½ï¿½o = turmaDescriï¿½ï¿½o;
 	}
 	
 	
