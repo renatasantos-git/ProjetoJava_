@@ -26,21 +26,16 @@ public class Aluno extends Pessoa {
 	
 	//********* GET E SET ***********
 	
-//	public int getIDaluno() {
-//		return IDaluno;
-//	}
-//	public void setIDaluno(int iDaluno) {
-//	IDaluno = iDaluno;
-//	}
-//	public double getAlunoVLMensalidade() {
-//		return AlunoVLMensalidade;
-//	}
-//	public void setAlunoVLMensalidade(double alunoVLMensalidade) {
-//		AlunoVLMensalidade = alunoVLMensalidade;
-//	}
-	public static void main(String[] args) {
-		System.out.println("reinn");
+	public int getIDaluno() {
+		return IDaluno;
 	}
-	
+	public void setIDaluno(int iDaluno) {
+	IDaluno = iDaluno;
+	}
+	public double getAlunoVLMensalidade() {
+		return AlunoVLMensalidade;
+	}
+	public void setAlunoVLMensalidade(double alunoVLMensalidade) {
+		AlunoVLMensalidade = alunoVLMensalidade;
 	
 }
